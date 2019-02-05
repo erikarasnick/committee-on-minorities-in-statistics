@@ -1,0 +1,13 @@
+name: "cms-website"
+output_dir: "."
+navbar:
+  title: "Committee on Minorities in Statistics"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Who we are"
+      href: about.html
+output:
+  html_document:
+    theme: cosmo
+    css: style.css

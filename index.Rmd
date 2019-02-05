@@ -1,0 +1,5 @@
+---
+title: "Committee on Minorities in Statistics"
+---
+
+Hello, World!
