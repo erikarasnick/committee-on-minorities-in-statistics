@@ -1,2 +1,2 @@
-# committee-on-minorities-in-statistics
+# diversity-workshop-and-mentoring
 updated web site
