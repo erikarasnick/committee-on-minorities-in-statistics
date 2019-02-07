@@ -4,7 +4,7 @@ subtitle: "ASA Committee on Minorities in Statistics"
 ---
 
 
-<img src='images/diversity_12_2016.jpg' align='center' style="max-width: 600px;">
+<img src='images/diversity_12_2016.jpg' align='center' width="800">
 
 # About
 
