@@ -3,9 +3,8 @@ title: "Diversity Workshop & Mentoring Programs"
 subtitle: "ASA Committee on Minorities in Statistics"
 ---
 
-\
 
-![](diversity_12_2016.jpg)
+<img src='images/diversity_12_2016.jpg' align='center' style="max-width: 600px;">
 
 # About
 
