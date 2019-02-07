@@ -1,12 +1,16 @@
 name: "cms-website"
 output_dir: "."
 navbar:
-  title: "Committee on Minorities in Statistics"
+  title: "Diversity Workshop & Mentoring Programs"
   left:
     - text: "Home"
       href: index.html
-    - text: "Who we are"
-      href: about.html
+    - text: "Schedule"
+      href: schedule.html
+    - text: "History"
+      href: history.html
+    - text: "Sponsers"
+      href: sponsers.html
 output:
   html_document:
     theme: cosmo
